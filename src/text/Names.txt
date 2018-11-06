@@ -1,0 +1,13 @@
+Google|
+Microsoft|
+Apple|
+Steve Jobs|
+Blackberry|
+Zune|
+iOS|
+SharePoint|
+Visual Studio|
+Azure|
+AWS|
+Amazon|
+Bill Gates

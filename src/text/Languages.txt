@@ -1,0 +1,10 @@
+JavaScript|
+C++|
+C#|
+SQL|
+HTML5|
+HTML|
+CSS|
+.Net|
+Ajax|
+JQuery

@@ -1,0 +1,21 @@
+Software|
+Platform|
+Framework|
+Asset Manager|
+Hub|
+Worm|
+Operating System|
+Utilities|
+Android|
+Malware|
+Tool|
+Web Framework|
+Sharepoint|
+Database|
+Vapourware|
+AI|
+Cloud|
+Web service|
+Identity Framework|
+Linq|
+Bootstrap

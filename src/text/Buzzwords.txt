@@ -1,0 +1,19 @@
+Material Design|
+Agile|
+Waterfall|
+Big data|
+Cloud|
+Deep learning|
+Framework|
+Front-end|
+Machine Learning|
+Mobile|
+Modularity|
+Next Generation|
+Real-time|
+Software defined Networking|
+User generated content|
+Web 2.0|
+Ignite|
+Artificial Intellegence|
+Cloud...
